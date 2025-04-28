@@ -9,3 +9,5 @@ node_modules/
 
 # Ignore environment files
 .env
+error.log
+error.log
